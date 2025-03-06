@@ -1,0 +1,19 @@
+{
+  "wallpapers": [
+    {
+      "id": "1",
+      "wallpaper_url": "https://example.com/wallpapers/wallpaper1.jpg",
+      "thumb_url": "https://example.com/wallpapers/thumb1.jpg"
+    },
+    {
+      "id": "2",
+      "wallpaper_url": "https://example.com/wallpapers/wallpaper2.jpg",
+      "thumb_url": "https://example.com/wallpapers/thumb2.jpg"
+    },
+    {
+      "id": "3",
+      "wallpaper_url": "https://example.com/wallpapers/wallpaper3.jpg",
+      "thumb_url": "https://example.com/wallpapers/thumb3.jpg"
+    }
+  ]
+}
