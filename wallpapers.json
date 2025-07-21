@@ -1,19 +1,14 @@
-{
-  "wallpapers": [
-    {
-      "id": "1",
-      "wallpaper_url": "https://i.imgur.com/AaevbdO.png",
-      "thumb_url": "https://i.imgur.com/AaevbdO.png"
-    },
-    {
-      "id": "2",
-      "wallpaper_url": "https://i.imgur.com/AaevbdO.png",
-      "thumb_url": "https://i.imgur.com/AaevbdO.png"
-    },
-    {
-      "id": "3",
-      "wallpaper_url": "https://i.imgur.com/AaevbdO.png",
-      "thumb_url": "https://i.imgur.com/AaevbdO.png"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "wallpaper_name": "Sunset Beach",
+    "category_url": "Nature",
+    "wallpaper_url": "https://i.imgur.com/AaevbdO.png"
+  },
+  {
+    "id": 2,
+    "wallpaper_name": "City Night",
+    "category_url": "Urban",
+    "wallpaper_url": "https://i.imgur.com/AaevbdO.png"
+  }
+]
