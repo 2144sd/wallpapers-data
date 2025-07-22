@@ -1,61 +1,61 @@
 [
   {
     "id": 1,
-    "wallpaper_name": "Gradient1",
+    "wallpaper_name": "Palette1",
     "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(1).png"
   },
   {
     "id": 2,
-    "wallpaper_name": "Gradient2",
+    "wallpaper_name": "Palette2",
     "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(2).png"
   },
   {
     "id": 3,
-    "wallpaper_name": "Gradient3",
+    "wallpaper_name": "Palette3",
     "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(3).png"
   },
   {
     "id": 4,
-    "wallpaper_name": "Gradient4",
+    "wallpaper_name": "Palette4",
     "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(4).png"
   },
   {
     "id": 5,
-    "wallpaper_name": "Gradient5",
+    "wallpaper_name": "Palette5",
     "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(5).png"
   },
   {
     "id": 6,
-    "wallpaper_name": "Gradient6",
+    "wallpaper_name": "Palette6",
     "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(6).png"
   },
   {
     "id": 7,
-    "wallpaper_name": "Gradient7",
+    "wallpaper_name": "Palette7",
     "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(7).png"
   },
   {
     "id": 8,
-    "wallpaper_name": "Gradient8",
+    "wallpaper_name": "Palette8",
     "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(8).png"
   },
   {
     "id": 9,
-    "wallpaper_name": "Gradient9",
+    "wallpaper_name": "Palette9",
     "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(9).png"
   },
   {
     "id": 10,
-    "wallpaper_name": "Gradient10",
+    "wallpaper_name": "Palette10",
     "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(10).png"
   },
@@ -121,122 +121,122 @@
   },
   {
     "id": 21,
-    "wallpaper_name": "Palette21",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(1).png"
+    "wallpaper_name": "gradient21",
+    "category_url": "gradient",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(1).png"
   },
   {
     "id": 22,
-    "wallpaper_name": "Palette22",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(2).png"
+    "wallpaper_name": "gradient22",
+    "category_url": "gradient",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(2).png"
   },
   {
     "id": 23,
-    "wallpaper_name": "Palette23",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(3).png"
+    "wallpaper_name": "gradient23",
+    "category_url": "gradient",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(3).png"
   },
   {
     "id": 24,
-    "wallpaper_name": "Palette24",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(4).png"
+    "wallpaper_name": "gradient24",
+    "category_url": "gradient",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(4).png"
   },
   {
     "id": 25,
-    "wallpaper_name": "Palette25",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(5).png"
+    "wallpaper_name": "gradient25",
+    "category_url": "gradient",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(5).png"
   },
   {
     "id": 26,
-    "wallpaper_name": "Palette26",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(6).png"
+    "wallpaper_name": "gradient26",
+    "category_url": "gradient",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(6).png"
   },
   {
     "id": 27,
-    "wallpaper_name": "Palette27",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(7).png"
+    "wallpaper_name": "gradient27",
+    "category_url": "gradient",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(7).png"
   },
   {
     "id": 28,
-    "wallpaper_name": "Palette28",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(8).png"
+    "wallpaper_name": "gradient28",
+    "category_url": "gradient",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(8).png"
   },
   {
     "id": 29,
-    "wallpaper_name": "Palette29",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(9).png"
+    "wallpaper_name": "gradient29",
+    "category_url": "gradient",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(9).png"
   },
   {
     "id": 30,
-    "wallpaper_name": "Palette30",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(10).png"
+    "wallpaper_name": "gradient30",
+    "category_url": "gradient",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(10).png"
   },
   {
     "id": 31,
-    "wallpaper_name": "Palette31",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(31).png"
+    "wallpaper_name": "Stripe31",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//stripe%20(1).png"
   },
   {
     "id": 32,
-    "wallpaper_name": "Palette32",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(32).png"
+    "wallpaper_name": "Stripe32",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//stripe%20(2).png"
   },
   {
     "id": 33,
-    "wallpaper_name": "Palette33",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(33).png"
+    "wallpaper_name": "Stripe33",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//stripe%20(3).png"
   },
   {
     "id": 34,
-    "wallpaper_name": "Palette34",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(34).png"
+    "wallpaper_name": "Stripe34",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//stripe%20(4).png"
   },
   {
     "id": 35,
-    "wallpaper_name": "Palette35",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(35).png"
+    "wallpaper_name": "Stripe35",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//stripe%20(5).png"
   },
   {
     "id": 36,
-    "wallpaper_name": "Palette36",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(36).png"
+    "wallpaper_name": "Stripe36",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//stripe%20(6).png"
   },
   {
     "id": 37,
-    "wallpaper_name": "Palette37",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(37).png"
+    "wallpaper_name": "Stripe37",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//stripe%20(7).png"
   },
   {
     "id": 38,
-    "wallpaper_name": "Palette38",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(38).png"
+    "wallpaper_name": "Stripe38",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//stripe%20(8).png"
   },
   {
     "id": 39,
-    "wallpaper_name": "Palette39",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(39).png"
+    "wallpaper_name": "Stripe39",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//stripe%20(9).png"
   },
   {
     "id": 40,
-    "wallpaper_name": "Palette40",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(40).png"
+    "wallpaper_name": "Stripe40",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//stripe%20(10).png"
   }
 ]
