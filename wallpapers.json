@@ -122,61 +122,61 @@
   {
     "id": 21,
     "wallpaper_name": "gradient21",
-    "category_url": "gradient",
+    "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(1).png"
   },
   {
     "id": 22,
     "wallpaper_name": "gradient22",
-    "category_url": "gradient",
+    "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(2).png"
   },
   {
     "id": 23,
     "wallpaper_name": "gradient23",
-    "category_url": "gradient",
+    "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(3).png"
   },
   {
     "id": 24,
     "wallpaper_name": "gradient24",
-    "category_url": "gradient",
+    "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(4).png"
   },
   {
     "id": 25,
     "wallpaper_name": "gradient25",
-    "category_url": "gradient",
+    "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(5).png"
   },
   {
     "id": 26,
     "wallpaper_name": "gradient26",
-    "category_url": "gradient",
+    "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(6).png"
   },
   {
     "id": 27,
     "wallpaper_name": "gradient27",
-    "category_url": "gradient",
+    "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(7).png"
   },
   {
     "id": 28,
     "wallpaper_name": "gradient28",
-    "category_url": "gradient",
+    "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(8).png"
   },
   {
     "id": 29,
     "wallpaper_name": "gradient29",
-    "category_url": "gradient",
+    "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(9).png"
   },
   {
     "id": 30,
     "wallpaper_name": "gradient30",
-    "category_url": "gradient",
+    "category_url": "Gradient",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//gradient%20(10).png"
   },
   {
@@ -238,5 +238,473 @@
     "wallpaper_name": "Stripe40",
     "category_url": "Stripe",
     "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//stripe%20(10).png"
+  },
+  {
+    "id": 41,
+    "wallpaper_name": "Stock1",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(1).png"
+  },
+  {
+    "id": 42,
+    "wallpaper_name": "Stock2",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(2).png"
+  },
+  {
+    "id": 43,
+    "wallpaper_name": "Stock3",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(3).png"
+  },
+  {
+    "id": 44,
+    "wallpaper_name": "Stock4",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(4).png"
+  },
+  {
+    "id": 45,
+    "wallpaper_name": "Stock5",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(5).png"
+  },
+  {
+    "id": 46,
+    "wallpaper_name": "Stock6",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(6).png"
+  },
+  {
+    "id": 47,
+    "wallpaper_name": "Stock7",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(7).png"
+  },
+  {
+    "id": 48,
+    "wallpaper_name": "Stock8",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(8).png"
+  },
+  {
+    "id": 49,
+    "wallpaper_name": "Stock9",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(9).png"
+  },
+  {
+    "id": 50,
+    "wallpaper_name": "Stock10",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(10).png"
+  },
+  {
+    "id": 51,
+    "wallpaper_name": "Stock11",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(11).png"
+  },
+  {
+    "id": 52,
+    "wallpaper_name": "Stock12",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(12).png"
+  },
+  {
+    "id": 53,
+    "wallpaper_name": "Stock13",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(13).png"
+  },
+  {
+    "id": 54,
+    "wallpaper_name": "Stock14",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(14).png"
+  },
+  {
+    "id": 55,
+    "wallpaper_name": "Stock15",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(15).png"
+  },
+  {
+    "id": 56,
+    "wallpaper_name": "Stock16",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(16).png"
+  },
+  {
+    "id": 57,
+    "wallpaper_name": "Stock17",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(17).png"
+  },
+  {
+    "id": 58,
+    "wallpaper_name": "Stock18",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(18).png"
+  },
+  {
+    "id": 59,
+    "wallpaper_name": "Stock19",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(19).png"
+  },
+  {
+    "id": 60,
+    "wallpaper_name": "Stock20",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(20).png"
+  },
+  {
+    "id": 61,
+    "wallpaper_name": "Stock21",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(21).png"
+  },
+  {
+    "id": 62,
+    "wallpaper_name": "Stock22",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(22).png"
+  },
+  {
+    "id": 63,
+    "wallpaper_name": "Stock23",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(23).png"
+  },
+  {
+    "id": 64,
+    "wallpaper_name": "Stock24",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(24).png"
+  },
+  {
+    "id": 65,
+    "wallpaper_name": "Stock25",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(25).png"
+  },
+  {
+    "id": 66,
+    "wallpaper_name": "Stock26",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(26).png"
+  },
+  {
+    "id": 67,
+    "wallpaper_name": "Stock27",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(27).png"
+  },
+  {
+    "id": 68,
+    "wallpaper_name": "Stock28",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(28).png"
+  },
+  {
+    "id": 69,
+    "wallpaper_name": "Stock29",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(29).png"
+  },
+  {
+    "id": 70,
+    "wallpaper_name": "Stock30",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(30).png"
+  },
+  {
+    "id": 71,
+    "wallpaper_name": "Stock31",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(31).png"
+  },
+  {
+    "id": 72,
+    "wallpaper_name": "Stock32",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(32).png"
+  },
+  {
+    "id": 73,
+    "wallpaper_name": "Stock33",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(33).png"
+  },
+  {
+    "id": 74,
+    "wallpaper_name": "Stock34",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(34).png"
+  },
+  {
+    "id": 75,
+    "wallpaper_name": "Stock35",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(35).png"
+  },
+  {
+    "id": 76,
+    "wallpaper_name": "Stock36",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(36).png"
+  },
+  {
+    "id": 77,
+    "wallpaper_name": "Stock37",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(37).png"
+  },
+  {
+    "id": 78,
+    "wallpaper_name": "Stock38",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(38).png"
+  },
+  {
+    "id": 79,
+    "wallpaper_name": "Stock39",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(39).png"
+  },
+  {
+    "id": 80,
+    "wallpaper_name": "Stock40",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(40).png"
+  },
+  {
+    "id": 81,
+    "wallpaper_name": "Stock41",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(41).png"
+  },
+  {
+    "id": 82,
+    "wallpaper_name": "Stock42",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(42).png"
+  },
+  {
+    "id": 83,
+    "wallpaper_name": "Stock43",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(43).png"
+  },
+  {
+    "id": 84,
+    "wallpaper_name": "Stock44",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(44).png"
+  },
+  {
+    "id": 85,
+    "wallpaper_name": "Stock45",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(45).png"
+  },
+  {
+    "id": 86,
+    "wallpaper_name": "Stock46",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(46).png"
+  },
+  {
+    "id": 87,
+    "wallpaper_name": "Stock47",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(47).png"
+  },
+  {
+    "id": 88,
+    "wallpaper_name": "Stock48",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(48).png"
+  },
+  {
+    "id": 89,
+    "wallpaper_name": "Stock49",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(49).png"
+  },
+  {
+    "id": 90,
+    "wallpaper_name": "Stock50",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(50).png"
+  },
+  {
+    "id": 91,
+    "wallpaper_name": "Stock51",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(51).png"
+  },
+  {
+    "id": 92,
+    "wallpaper_name": "Stock52",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(52).png"
+  },
+  {
+    "id": 93,
+    "wallpaper_name": "Stock53",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(53).png"
+  },
+  {
+    "id": 94,
+    "wallpaper_name": "Stock54",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(54).png"
+  },
+  {
+    "id": 95,
+    "wallpaper_name": "Stock55",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(55).png"
+  },
+  {
+    "id": 96,
+    "wallpaper_name": "Stock56",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(56).png"
+  },
+  {
+    "id": 97,
+    "wallpaper_name": "Stock57",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(57).png"
+  },
+  {
+    "id": 98,
+    "wallpaper_name": "Stock58",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(58).png"
+  },
+  {
+    "id": 99,
+    "wallpaper_name": "Stock59",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(59).png"
+  },
+  {
+    "id": 100,
+    "wallpaper_name": "Stock60",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(60).png"
+  },
+  {
+    "id": 101,
+    "wallpaper_name": "Stock61",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(61).png"
+  },
+  {
+    "id": 102,
+    "wallpaper_name": "Stock62",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(62).png"
+  },
+  {
+    "id": 103,
+    "wallpaper_name": "Stock63",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(63).png"
+  },
+  {
+    "id": 104,
+    "wallpaper_name": "Stock64",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(64).png"
+  },
+  {
+    "id": 105,
+    "wallpaper_name": "Stock65",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(65).png"
+  },
+  {
+    "id": 106,
+    "wallpaper_name": "Stock66",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(66).png"
+  },
+  {
+    "id": 107,
+    "wallpaper_name": "Stock67",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(67).png"
+  },
+  {
+    "id": 108,
+    "wallpaper_name": "Stock68",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(68).png"
+  },
+  {
+    "id": 109,
+    "wallpaper_name": "Stock69",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(69).png"
+  },
+  {
+    "id": 110,
+    "wallpaper_name": "Stock70",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(70).png"
+  },
+  {
+    "id": 111,
+    "wallpaper_name": "Stock71",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(71).png"
+  },
+  {
+    "id": 112,
+    "wallpaper_name": "Stock72",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(72).png"
+  },
+  {
+    "id": 113,
+    "wallpaper_name": "Stock73",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(73).png"
+  },
+  {
+    "id": 114,
+    "wallpaper_name": "Stock74",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(74).png"
+  },
+  {
+    "id": 115,
+    "wallpaper_name": "Stock75",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(75).png"
+  },
+  {
+    "id": 116,
+    "wallpaper_name": "Stock76",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(76).png"
+  },
+  {
+    "id": 117,
+    "wallpaper_name": "Stock77",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(77).png"
+  },
+  {
+    "id": 118,
+    "wallpaper_name": "Stock78",
+    "category_url": "Stock",
+    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Stock%20(78).png"
   }
 ]
