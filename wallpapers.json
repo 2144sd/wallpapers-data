@@ -244,5 +244,65 @@
     "wallpaper_name": "stripe10",
     "category_url": "Stripe",
     "wallpaper_url": "https://i.ibb.co/tpSN64by/i-Phone-16-Pro-Max-704.png"
+  },
+  {
+    "id": 42,
+    "wallpaper_name": "Gradient1",
+    "category_url": "gradient",
+    "wallpaper_url": "https://i.ibb.co/KjNR7hVH/gradient-1.png"
+  },
+  {
+    "id": 43,
+    "wallpaper_name": "Gradient2",
+    "category_url": "gradient",
+    "wallpaper_url": "https://i.ibb.co/Wvb6nSmv/gradient-2.png"
+  },
+  {
+    "id": 44,
+    "wallpaper_name": "Gradient3",
+    "category_url": "gradient",
+    "wallpaper_url": "https://i.ibb.co/mr0GMQrK/gradient-3.png"
+  },
+  {
+    "id": 45,
+    "wallpaper_name": "Gradient4",
+    "category_url": "gradient",
+    "wallpaper_url": "https://i.ibb.co/sdnnpGDK/gradient-4.png"
+  },
+  {
+    "id": 46,
+    "wallpaper_name": "Gradient5",
+    "category_url": "gradient",
+    "wallpaper_url": "https://i.ibb.co/93q7g46h/gradient-5.png"
+  },
+  {
+    "id": 47,
+    "wallpaper_name": "Gradient6",
+    "category_url": "gradient",
+    "wallpaper_url": "https://i.ibb.co/LzgJh6VW/gradient-6.png"
+  },
+  {
+    "id": 48,
+    "wallpaper_name": "Gradient7",
+    "category_url": "gradient",
+    "wallpaper_url": "https://i.ibb.co/9kwK2RLk/gradient-7.png"
+  },
+  {
+    "id": 49,
+    "wallpaper_name": "Gradient8",
+    "category_url": "gradient",
+    "wallpaper_url": "https://i.ibb.co/cKyKh4yp/gradient-8.png"
+  },
+  {
+    "id": 50,
+    "wallpaper_name": "Gradient9",
+    "category_url": "gradient",
+    "wallpaper_url": "https://i.ibb.co/JjBNys7Z/gradient-9.png"
+  },
+  {
+    "id": 51,
+    "wallpaper_name": "Gradient10",
+    "category_url": "gradient",
+    "wallpaper_url": "https://i.ibb.co/QFgM69vP/gradient-10.png"
   }
 ]
