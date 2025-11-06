@@ -124,5 +124,65 @@
     "wallpaper_name": "pixeldot10",
     "category_url": "pixeldot",
     "wallpaper_url": "https://i.ibb.co/1twM6tw7/i-Phone-16-Pro-Max-691.png"
+  },
+  {
+    "id": 22,
+    "wallpaper_name": "Palette1",
+    "category_url": "Palette",
+    "wallpaper_url": "https://i.ibb.co/gFfrrKXf/palette-1.png"
+  },
+  {
+    "id": 23,
+    "wallpaper_name": "Palette2",
+    "category_url": "Palette",
+    "wallpaper_url": "https://i.ibb.co/xqRvhM6c/palette-2.png"
+  },
+  {
+    "id": 24,
+    "wallpaper_name": "Palette3",
+    "category_url": "Palette",
+    "wallpaper_url": "https://i.ibb.co/Tqq5Wbhq/palette-3.png"
+  },
+  {
+    "id": 25,
+    "wallpaper_name": "Palette4",
+    "category_url": "Palette",
+    "wallpaper_url": "https://i.ibb.co/jv1MQFxd/palette-4.png"
+  },
+  {
+    "id": 26,
+    "wallpaper_name": "Palette5",
+    "category_url": "Palette",
+    "wallpaper_url": "https://i.ibb.co/qMYDh9c1/palette-5.png"
+  },
+  {
+    "id": 27,
+    "wallpaper_name": "Palette6",
+    "category_url": "Palette",
+    "wallpaper_url": "https://i.ibb.co/FL5xznjd/palette-6.png"
+  },
+  {
+    "id": 28,
+    "wallpaper_name": "Palette7",
+    "category_url": "Palette",
+    "wallpaper_url": "https://i.ibb.co/1t4Jwgyr/palette-7.png"
+  },
+  {
+    "id": 29,
+    "wallpaper_name": "Palette8",
+    "category_url": "Palette",
+    "wallpaper_url": "https://i.ibb.co/N2FkDhCh/palette-8.png"
+  },
+  {
+    "id": 30,
+    "wallpaper_name": "Palette9",
+    "category_url": "Palette",
+    "wallpaper_url": "https://i.ibb.co/V0q87vYK/palette-9.png"
+  },
+  {
+    "id": 31,
+    "wallpaper_name": "Palette10",
+    "category_url": "Palette",
+    "wallpaper_url": "https://i.ibb.co/k2N5WTPY/palette-10.png"
   }
 ]
