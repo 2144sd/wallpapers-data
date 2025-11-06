@@ -1,63 +1,69 @@
 [
   {
     "id": 1,
-    "wallpaper_name": "Palette1",
-    "category_url": "Palette",
+    "wallpaper_name": "Glass1",
+    "category_url": "Glass",
     "wallpaper_url": "https://i.ibb.co/tpy5hW6N/glass-1.png"
   },
   {
     "id": 2,
-    "wallpaper_name": "Palette2",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(2).png"
+    "wallpaper_name": "Glass2",
+    "category_url": "Glass",
+    "wallpaper_url": "https://i.ibb.co/w3bknCp/glass-2.png"
   },
   {
     "id": 3,
-    "wallpaper_name": "Palette3",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(3).png"
+    "wallpaper_name": "Glass3",
+    "category_url": "Glass",
+    "wallpaper_url": "https://i.ibb.co/7tTwNxk4/glass-3.png"
   },
   {
     "id": 4,
-    "wallpaper_name": "Palette4",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(4).png"
+    "wallpaper_name": "Glass4",
+    "category_url": "Glass",
+    "wallpaper_url": " https://i.ibb.co/mFgD92s5/glass-4.png"
   },
   {
     "id": 5,
-    "wallpaper_name": "Palette5",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(5).png"
+    "wallpaper_name": "Glass5",
+    "category_url": "Glass",
+    "wallpaper_url": "https://i.ibb.co/VWDc9gX6/glass-5.png"
   },
   {
     "id": 6,
-    "wallpaper_name": "Palette6",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(6).png"
+    "wallpaper_name": "Glass6",
+    "category_url": "Glass",
+    "wallpaper_url": "https://i.ibb.co/3mbFv9HJ/glass-6.png"
   },
   {
     "id": 7,
-    "wallpaper_name": "Palette7",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(7).png"
+    "wallpaper_name": "Glass7",
+    "category_url": "Glass",
+    "wallpaper_url": "https://i.ibb.co/d4BJJbVH/glass-7.png"
   },
   {
     "id": 8,
-    "wallpaper_name": "Palette8",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(8).png"
+    "wallpaper_name": "Glass8",
+    "category_url": "Glass",
+    "wallpaper_url": "https://i.ibb.co/q3cffxdz/glass-8.png"
   },
   {
     "id": 9,
-    "wallpaper_name": "Palette9",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(9).png"
+    "wallpaper_name": "Glass9",
+    "category_url": "Glass",
+    "wallpaper_url": "https://i.ibb.co/vCdcNcBG/glass-9.png"
   },
   {
     "id": 10,
-    "wallpaper_name": "Palette10",
-    "category_url": "Palette",
-    "wallpaper_url": "https://duaivpnigcktdjvzowwc.supabase.co/storage/v1/object/public/image//Palette%20(10).png"
+    "wallpaper_name": "Glass10",
+    "category_url": "Glass",
+    "wallpaper_url": "https://i.ibb.co/zWj9KGYM/glass-10.png"
+  },
+   {
+    "id": 11,
+    "wallpaper_name": "Glass11",
+    "category_url": "Glass",
+    "wallpaper_url": "https://i.ibb.co/bjwLJp5d/glass-11.png"
   },
   {
     "id": 11,
