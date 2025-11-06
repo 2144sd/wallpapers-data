@@ -502,5 +502,125 @@
     "wallpaper_name": "landscape20",
     "category_url": "landscape",
     "wallpaper_url": "https://i.ibb.co/HfTqXVQP/landscape1-11.png"
+  },
+  {
+    "id": 85,
+    "wallpaper_name": "Fluid1",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/VWG13kP4/fluid-12.png"
+  },
+  {
+    "id": 86,
+    "wallpaper_name": "Fluid2",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/6c3G0f7R/fluid-13.png"
+  },
+  {
+    "id": 87,
+    "wallpaper_name": "Fluid3",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/fdKpPM5F/fluid-14.png"
+  },
+  {
+    "id": 88,
+    "wallpaper_name": "Fluid4",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/vvPbgzjQ/fluid-15.png"
+  },
+  {
+    "id": 89,
+    "wallpaper_name": "Fluid5",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/gLSdFVQ3/fluid-16.png"
+  },
+  {
+    "id": 90,
+    "wallpaper_name": "Fluid6",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/nspHhJQP/fluid-17.png"
+  },
+  {
+    "id": 91,
+    "wallpaper_name": "Fluid7",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/LzYkrVyq/fluid-18.png"
+  },
+  {
+    "id": 92,
+    "wallpaper_name": "Fluid8",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/PvcQMq3R/fluid-19.png"
+  },
+  {
+    "id": 93,
+    "wallpaper_name": "Fluid9",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/pBkGbfCX/fluid-20.png"
+  },
+  {
+    "id": 94,
+    "wallpaper_name": "Fluid10",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/GQPxsHf6/fluid-1.png"
+  },
+  {
+    "id": 95,
+    "wallpaper_name": "Fluid11",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/gLf6Pr3n/fluid-2.png"
+  },
+  {
+    "id": 96,
+    "wallpaper_name": "Fluid12",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/9kkhFNdm/fluid-3.png"
+  },
+  {
+    "id": 97,
+    "wallpaper_name": "Fluid13",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/PsnRp4D8/fluid-4.png"
+  },
+  {
+    "id": 98,
+    "wallpaper_name": "Fluid14",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/CpSdt02J/fluid-5.png"
+  },
+  {
+    "id": 99,
+    "wallpaper_name": "Fluid15",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/h1y9Xw71/fluid-6.png"
+  },
+  {
+    "id": 100,
+    "wallpaper_name": "Fluid16",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/dsMhXvJG/fluid-7.png"
+  },
+  {
+    "id": 101,
+    "wallpaper_name": "Fluid17",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/twN3sS2y/fluid-8.png"
+  },
+  {
+    "id": 102,
+    "wallpaper_name": "Fluid18",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/nNHyB4Dz/fluid-9.png"
+  },
+  {
+    "id": 103,
+    "wallpaper_name": "Fluid19",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/cSfp1YJc/fluid-10.png"
+  },
+  {
+    "id": 104,
+    "wallpaper_name": "Fluid20",
+    "category_url": "Fluid",
+    "wallpaper_url": "https://i.ibb.co/dJ6gH0YM/fluid-11.png"
   }
 ]
