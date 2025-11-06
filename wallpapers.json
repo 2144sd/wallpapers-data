@@ -184,5 +184,65 @@
     "wallpaper_name": "Palette10",
     "category_url": "Palette",
     "wallpaper_url": "https://i.ibb.co/k2N5WTPY/palette-10.png"
+  },
+  {
+    "id": 32,
+    "wallpaper_name": "stripe1",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://i.ibb.co/7xCQ5JGc/i-Phone-16-Pro-Max-695.png"
+  },
+  {
+    "id": 33,
+    "wallpaper_name": "stripe2",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://i.ibb.co/27g6mhyz/i-Phone-16-Pro-Max-696.png"
+  },
+  {
+    "id": 34,
+    "wallpaper_name": "stripe3",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://i.ibb.co/3YFM0m7T/i-Phone-16-Pro-Max-697.png"
+  },
+  {
+    "id": 35,
+    "wallpaper_name": "stripe4",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://i.ibb.co/FbGDJTNG/i-Phone-16-Pro-Max-698.png"
+  },
+  {
+    "id": 36,
+    "wallpaper_name": "stripe5",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://i.ibb.co/tTdcSSgC/i-Phone-16-Pro-Max-699.png"
+  },
+  {
+    "id": 37,
+    "wallpaper_name": "stripe6",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://i.ibb.co/dwF1Zx3H/i-Phone-16-Pro-Max-700.png"
+  },
+  {
+    "id": 38,
+    "wallpaper_name": "stripe7",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://i.ibb.co/PzrqH8hy/i-Phone-16-Pro-Max-701.png"
+  },
+  {
+    "id": 39,
+    "wallpaper_name": "stripe8",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://i.ibb.co/tk5NvrQ/i-Phone-16-Pro-Max-702.png"
+  },
+  {
+    "id": 40,
+    "wallpaper_name": "stripe9",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://i.ibb.co/Y43BXRxN/i-Phone-16-Pro-Max-703.png"
+  },
+  {
+    "id": 41,
+    "wallpaper_name": "stripe10",
+    "category_url": "Stripe",
+    "wallpaper_url": "https://i.ibb.co/tpSN64by/i-Phone-16-Pro-Max-704.png"
   }
 ]
